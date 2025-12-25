@@ -1,0 +1,5 @@
+INFO 2025-01-01 System started
+WARNING 2025-01-01 High memory usage
+ERROR 2025-01-01 Connection timeout
+INFO 2025-01-01 Process completed
+ERROR 2025-01-01 Disk not found
